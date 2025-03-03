@@ -1,1 +1,1 @@
-# RL-Inrush-Minimization
+This repository contains the code, data and additional materials of the paper "Inrush Current Minimization Approach based on Reinforcement Learning and Controlled Switching for Power Transformers" by Jone Ugarte (Mondragon University, Spain), Jose I. Aizpurua (University of the Basque Country and Ikerbasque Basque Foundation for Science, Spain), Manex Barrenetxea (Mondragon University, Spain) and Brian G. Stewart (University of Strathclyde, UK).
